@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\software\\Book Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{055A8080-3213-40F8-857F-086F2F6A2170}|Bank Task\\Bank Task.vcxproj|D:\\Desktop\\software\\Book Task\\Bank Task\\Bank Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{055A8080-3213-40F8-857F-086F2F6A2170}|Bank Task\\Bank Task.vcxproj|solutionrelative:Bank Task\\Bank Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055A8080-3213-40F8-857F-086F2F6A2170}|Bank Task\\Bank Task.vcxproj|D:\\Desktop\\software\\Book Task\\Bank Task\\Book and Ebook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{055A8080-3213-40F8-857F-086F2F6A2170}|Bank Task\\Bank Task.vcxproj|solutionrelative:Bank Task\\Book and Ebook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 615,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book and Ebook.h",
+              "DocumentMoniker": "D:\\Desktop\\software\\Book Task\\Bank Task\\Book and Ebook.h",
+              "RelativeDocumentMoniker": "Bank Task\\Book and Ebook.h",
+              "ToolTip": "D:\\Desktop\\software\\Book Task\\Bank Task\\Book and Ebook.h*",
+              "RelativeToolTip": "Bank Task\\Book and Ebook.h*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T11:35:47.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank Task.cpp",
+              "DocumentMoniker": "D:\\Desktop\\software\\Book Task\\Bank Task\\Bank Task.cpp",
+              "RelativeDocumentMoniker": "Bank Task\\Bank Task.cpp",
+              "ToolTip": "D:\\Desktop\\software\\Book Task\\Bank Task\\Bank Task.cpp*",
+              "RelativeToolTip": "Bank Task\\Bank Task.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T11:35:15.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
